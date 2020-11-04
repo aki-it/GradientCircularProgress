@@ -1,0 +1,19 @@
+{
+  "builtTestProducts" : [
+    {
+      "binaryPath" : "\/Users\/yoshiakisato\/Desktop\/Git\/Grad\/.build\/x86_64-apple-macosx\/debug\/GradPackageTests.xctest\/Contents\/MacOS\/GradPackageTests",
+      "packageName" : "Grad",
+      "productName" : "GradPackageTests"
+    }
+  ],
+  "copyCommands" : {
+
+  },
+  "swiftTargetMap" : {
+    "C.Grad-debug.module" : "Grad",
+    "C.GradTests-debug.module" : "GradTests"
+  },
+  "testDiscoveryCommands" : {
+
+  }
+}

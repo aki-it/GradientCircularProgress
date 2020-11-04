@@ -1,0 +1,22 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Grad"
+provides-nominal:
+- "4GradAAV"
+provides-member:
+- ["4GradAAV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "Grad"
+- "StringLiteralType"
+depends-member:
+- ["4GradAAV", "init"]
+- ["4GradAAV", "text"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+depends-nominal:
+- "4GradAAV"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/yoshiakisato/Desktop/Git/Grad/.build/x86_64-apple-macosx/debug/Grad.build/module.modulemap"
+interface-hash: "d76ce4afb53a1eb3f2eafe536e02e24b"

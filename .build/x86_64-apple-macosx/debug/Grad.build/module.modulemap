@@ -1,0 +1,4 @@
+module Grad {
+    header "/Users/yoshiakisato/Desktop/Git/Grad/.build/x86_64-apple-macosx/debug/Grad.build/Grad-Swift.h"
+    requires objc
+}

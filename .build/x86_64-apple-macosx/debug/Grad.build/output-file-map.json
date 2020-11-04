@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/yoshiakisato/Desktop/Git/Grad/.build/x86_64-apple-macosx/debug/Grad.build/master.swiftdeps"
+  },
+  "/Users/yoshiakisato/Desktop/Git/Grad/Sources/Grad/Grad.swift": {
+    "dependencies": "/Users/yoshiakisato/Desktop/Git/Grad/.build/x86_64-apple-macosx/debug/Grad.build/Grad.d",
+    "object": "/Users/yoshiakisato/Desktop/Git/Grad/.build/x86_64-apple-macosx/debug/Grad.build/Grad.swift.o",
+    "swiftmodule": "/Users/yoshiakisato/Desktop/Git/Grad/.build/x86_64-apple-macosx/debug/Grad.build/Grad~partial.swiftmodule",
+    "swift-dependencies": "/Users/yoshiakisato/Desktop/Git/Grad/.build/x86_64-apple-macosx/debug/Grad.build/Grad.swiftdeps"
+  }
+}
